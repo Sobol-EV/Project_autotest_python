@@ -1,0 +1,3 @@
+
+MOCK_HOST = "vk_api"
+MOCK_PORT = 8085
